@@ -7,6 +7,16 @@
     <title>Document</title>
 </head>
 <body>
-    
+<div class="container">
+  <div class="Booking"></div>
+  <div class="Header"></div>
+  <div class="Footer"></div>
+  <div class="footer"></div>
+  <div class="header"></div>
+  <div class="booking"></div>
+  <div class="main"></div>
+  <div class="mainL"></div>
+  <div class="mainR"></div>
+</div>
 </body>
 </html>
