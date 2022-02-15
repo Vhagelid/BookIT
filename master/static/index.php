@@ -4,12 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="layoutStyling.css">
     <title>Document</title>
 </head>
 <body>
 <div class="container">
   <div class="Booking">
-  <table style="width:100%">
+      <form>
+  <table>
     <tr>
         <th>BookingSystem</th>
         <th>8:00-8:45</th>
@@ -20,61 +22,62 @@
     </tr>
     <tr>
         <td>Mandag</td>
-        <td>Tomt</td>
-        <td>Tomt</td>
-        <td>Vilmer Baking</td>
-        <td>Tomt</td>
-        <td>Tomt</td>
+        <td> <input type="text" id="komment" name="komment" placeholder="Komment"></label></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
     </tr>
     <tr>
         <td>Tirsdag</td>
-        <td>Tomt</td>
-        <td>Tomt</td>
-        <td>Tomt</td>
-        <td>Tomt</td>
-        <td>Tomt</td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
     </tr>
     <tr>
         <td>Onsdag</td>
-        <td>Tomt</td>
-        <td>Tomt</td>
-        <td>Tomt</td>
-        <td>Tomt</td>
-        <td>Tomt</td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
     </tr>
         <tr>
         <td>Torsdag</td>
-        <td>Tomt</td>
-        <td>Even, Intercourse</td>
-        <td>Tomt</td>
-        <td>Tomt</td>
-        <td>Tomt</td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
     </tr>
     <tr>
         <td>Fredag</td>
-        <td>Tomt</td>
-        <td>Tomt</td>    
-        <td>Tomt</td>
-        <td>Tomt</td>
-        <td>Tomt</td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>    
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
     </tr>
         <tr>
         <td>Lørdag</td>
-        <td>Tomt</td>
-        <td>Tomt</td>
-        <td>Tomt</td>
-        <td>Tomt</td>
-        <td>Tomt</td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
     </tr>
     <tr>
         <td>Søndag</td>
-        <td>Tomt</td>
-        <td>Tomt</td>
-        <td>Tomt</td>
-        <td>Tomt</td>
-        <td>Tomt</td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
+        <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
     </tr>
 </table>
+</form>
   </div>
   <div class="Header"></div>
   <div class="Footer"></div>
