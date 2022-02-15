@@ -1,3 +1,26 @@
+input {
+  border-width:0px;
+  border:none;
+  max-width: max-content;
+  height: 20px;
+}
+
+.booking {
+  font-size:x-large;
+}
+
+
+table {
+  width: 150%;
+}
+
+table, tr, td {
+    border: 1px solid black;
+    font-size: 50px;
+    height: max-content;
+  }
+
+
 .container {  display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
