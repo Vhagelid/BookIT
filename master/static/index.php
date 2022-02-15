@@ -5,13 +5,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="layoutStyling.css">
-    <title>Document</title>
+    <title>BookIT.com</title>
 </head>
 <body>
 <div class="container">
   <div class="Booking">
       <form>
   <table>
+      <tr>
+          <th>Month</th>
+      </tr>
     <tr>
         <th>BookingSystem</th>
         <th>8:00-8:45</th>
@@ -22,7 +25,7 @@
     </tr>
     <tr>
         <td>Mandag</td>
-        <td> <input type="text" id="komment" name="komment" placeholder="Komment"></label></td>
+        <td> <input type="text" id="komment" name="komment" placeholder="Komment"></td>
         <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
         <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>
         <td><input type="text" id="komment" name="komment" placeholder="Komment"></td>

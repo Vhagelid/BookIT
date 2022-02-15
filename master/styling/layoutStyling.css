@@ -1,15 +1,23 @@
 input {
   border-width:0px;
-border:none;
+  border:none;
+  max-width: max-content;
+  height: 20px;
+}
+
+.booking {
+  font-size:x-large;
 }
 
 
 table {
-  width: 100%;
+  width: 150%;
 }
 
 table, tr, td {
     border: 1px solid black;
+    font-size: 50px;
+    height: max-content;
   }
 
 
