@@ -1,5 +1,5 @@
 <?php
-  include '/dbh.php';
+  include 'dnh.php';
 ?>
 
 <!DOCTYPE html>
